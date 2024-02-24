@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+
+    <string name="artspace1">Dubai: Burj Khalifa</string>
+    <string name="artspace1Description">Baber Afzal (2022)</string>
+
+    <string name="artspace2">Barcelona: CampNou</string>
+    <string name="artspace2Description">Antoni Campañà (2020)</string>
+
+    <string name="artspace3">Lebanon: Baalbek</string>
+    <string name="artspace3Description">Karimeh Abbud (2005)</string>
+
+</resources>
